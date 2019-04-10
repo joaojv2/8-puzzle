@@ -12,7 +12,7 @@ gfs (Best-First Search)
 ```
 ### Usage
 ```
-python Main.py ast 0,8,7,6,5,4,3,2,1
+python3 Main.py ast 0,8,7,6,5,4,3,2,1
 ```
 ### Results
 ```
